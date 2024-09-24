@@ -24,8 +24,7 @@ Adding a company for the current user. </br>
 Adding products/services. </br>
 Adding quantity of goods/services for a purchase. </br>
 Generating PDF at the end of the year for accounting need. </br>
-Sending email with reports about sales.</br>
-
+Sending email with reports about sales.</br>CARLO jAY
 
 
 
